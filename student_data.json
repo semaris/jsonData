@@ -1,10 +1,22 @@
 {
-    "FirmaAdi" : "Semaris Medya Bilişim",
-    "FirmaSlogan" : "Yeni Nesil Teknolojiler, Dijital Çözümler",
-    "FirmaHakkinda" : "HAYALLERİNİZİ GERÇEKLEŞTİRMENİN TEK YOLU, MÜMKÜN OLDUĞUNA İNANMAKTIR.Dijital evrende gerçeğin yansımaları!Televizyoncu Sunucu ve Yönetmen Meriç Aydın tarafından kurulmuştur. Ankara merkezli olarak tüm Türkiye ve Dünya ülkelerinde faaliyet göstermektedir. Uzun yıllardır önemli bir çok projeye imza atmıştır.",
-    "FirmaWebSite" : "https://www.semaris.com.tr",
-    "FirmaFacebook" : "https://www.facebook.com/semarismba",
-    "FirmaInstagram" : "https://www.instagram.com/semarismba",
-    "FirmaLinkedin" : "https://www.linkedin.com/semarismba",
-    "FirmaLogo" : "https://drive.google.com/uc?export=download&id=1gPNhk1tRlzMElzqlth52kLQTOJf0DIf7"
+  "students": [
+    {
+      "name": "mark dacer",
+      "age": 26,
+      "email": "mark@mail.com",
+      "isEnrolled": false
+    },
+     {
+      "name": "juan cruz",
+      "age": 24,
+      "email": "cruz@mail.com",
+      "isEnrolled": true
+    },
+     {
+      "name": "based jovito",
+      "age": 25,
+      "email": "based@mail.com",
+      "isEnrolled": false
+    }
+  ]
 }
