@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "mark dacer",
+      "age": 26,
+      "email": "mark@mail.com",
+      "isEnrolled": false
+    },
+     {
+      "name": "juan cruz",
+      "age": 24,
+      "email": "cruz@mail.com",
+      "isEnrolled": true
+    },
+     {
+      "name": "based jovito",
+      "age": 25,
+      "email": "based@mail.com",
+      "isEnrolled": false
+    }
+  ]
+}
